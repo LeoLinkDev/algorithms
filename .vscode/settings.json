@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": [
+    "**/python/src"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.cwd": "${workspaceFolder}/fastprep/chebyshev/python",
+  "python.testing.pytestArgs": [
+    "tests"
+  ]
+}

@@ -2,7 +2,7 @@ using System;
 
 namespace Algorithms;
 
-partial class Amazon
+partial class Chebyshev
 {
     /* Minimum Grid Inconvenience
     * https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience

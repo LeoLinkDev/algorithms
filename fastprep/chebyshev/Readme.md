@@ -1,6 +1,7 @@
 # Minimum Grid Inconvenience
 
-**Source:** [FastPrep - Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)
+**Source:** [FastPrep - Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) \
+**Difficulty:** <span style="color: red;">Hard</span>
 
 ## Problem Description
 

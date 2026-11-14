@@ -1,5 +1,5 @@
 """
-File: app.py
+File: app.py (AMAZON Coding Challenge)
 Author: Leo Gurdian
 Date: 2026-11-13
 
@@ -46,7 +46,7 @@ class Solution:
           dist[r][c] = 0
           q.append((r, c))
 
-    #2. check if neighbor rows and cols are unvisited, set to 1 if so, and append queue
+    #2. set unvisited neighbor rows and cols to 1, and append to queue
     while q:
       r, c = q.popleft()
       d = dist[r][c] + 1
@@ -74,3 +74,9 @@ class Solution:
       else:
         lo = mid + 1
     return lo
+
+def main():
+  solver = Solution()
+
+if __name__ == "__main__":
+  main()
