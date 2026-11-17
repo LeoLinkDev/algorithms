@@ -1,0 +1,14 @@
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\.msCoverageSourceRootsMapping_Chebyshev.Tests
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\CoverletSourceRootsMapping_Chebyshev.Tests
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\testhost.exe
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\testhost.dll
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\xunit.abstractions.dll
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\xunit.runner.visualstudio.testadapter.dll
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\Chebyshev.Tests.deps.json
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\Chebyshev.Tests.runtimeconfig.json
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\bin\Debug\net11.0\Chebyshev.Tests.runtimeconfig.dev.json
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\obj\Debug\net11.0\Chebyshev.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\obj\Debug\net11.0\Chebyshev.Tests.AssemblyInfoInputs.cache
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\obj\Debug\net11.0\Chebyshev.Tests.AssemblyInfo.cs
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\obj\Debug\net11.0\Chebyshe.EFCCAC52.Up2Date
+c:\repos\algorithms\fastprep\chebyshev\csharp\tests\obj\Debug\net11.0\Chebyshev.Tests.genruntimeconfig.cache

@@ -4,8 +4,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "AMAZON Coding Challenge: Get min distance using Chebyshev algorithm."
-description = "Get min distance using Chebyshev algorithm."
+name = "chebyshev"
+description = "Find minimum inconvenience distance between a delivery center and neighbors after converting at most one `0` cell into `1` (delivery center)."
 version = "1.0.0"
 keywords = ["pyOpenSci", "python packaging"]
 authors = [

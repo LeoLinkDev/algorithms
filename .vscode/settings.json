@@ -1,11 +1,18 @@
 {
-  "python.analysis.extraPaths": [
-    "**/python/src"
-  ],
-  "python.testing.pytestEnabled": true,
-  "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/fastprep/chebyshev/python",
-  "python.testing.pytestArgs": [
-    "tests"
-  ]
+    "python.analysis.extraPaths": [
+        "src"
+    ],
+    "python-envs.pythonProjects": [
+        {
+            "path": ".",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.cwd": "${workspaceFolder}",
+    "python.testing.pytestArgs": [
+        "tests"
+    ]
 }

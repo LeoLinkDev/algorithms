@@ -1,0 +1,13 @@
+c:\repos\algorithms\leetcode\palindrome\csharp\src\bin\Debug\net11.0\Palindrome.deps.json
+c:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.AssemblyInfoInputs.cache
+c:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.AssemblyInfo.cs
+c:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.csproj.Up2Date
+C:\repos\algorithms\leetcode\palindrome\csharp\src\bin\Debug\net11.0\Palindrome.dll
+C:\repos\algorithms\leetcode\palindrome\csharp\src\bin\Debug\net11.0\Palindrome.pdb
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.sourcelink.json
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.dll
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\refint\Palindrome.dll
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\Palindrome.pdb
+C:\repos\algorithms\leetcode\palindrome\csharp\src\obj\Debug\net11.0\ref\Palindrome.dll

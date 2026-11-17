@@ -1,8 +1,50 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "venv",
+			"path": "./.venv/"
+		},
+		{
+			"name": "fastprep: chebyshev python",
+			"path": "fastprep/chebyshev/python"
+		},
+		{
+			"name": "fastprep: Chebyshev csharp",
+			"path": "fastprep/chebyshev/csharp"
+		},
+		{
+			"name": "leetcode: shift-right python",
+			"path": "leetcode/shift-right/python"
+		},
+		{
+			"name": "leetcode: ShiftRight csharp",
+			"path": "leetcode/shift-right/csharp"
+		},		
+		{
+			"name": "leetcode: palindrome python",
+			"path": "leetcode/palindrome/python"
+		},
+		{
+			"name": "leetcode: Palindrome csharp",
+			"path": "leetcode/palindrome/csharp"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.analysis.extraPaths": [
+			"src"
+		],
+		"python-envs.pythonProjects": [
+			{
+				"path": ".",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		],
+		"python.testing.unittestEnabled": false,
+		"python.testing.pytestEnabled": true,
+		"python.testing.cwd": "${workspaceFolder}",
+		"python.testing.pytestArgs": [
+			"tests"
+		]
+	}
 }

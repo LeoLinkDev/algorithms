@@ -1,0 +1,5 @@
+c:\repos\algorithms\fastprep\chebyshev\csharp\src\bin\Debug\net11.0\Chebyshev.deps.json
+c:\repos\algorithms\fastprep\chebyshev\csharp\src\obj\Debug\net11.0\Chebyshev.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\algorithms\fastprep\chebyshev\csharp\src\obj\Debug\net11.0\Chebyshev.AssemblyInfoInputs.cache
+c:\repos\algorithms\fastprep\chebyshev\csharp\src\obj\Debug\net11.0\Chebyshev.AssemblyInfo.cs
+c:\repos\algorithms\fastprep\chebyshev\csharp\src\obj\Debug\net11.0\Chebyshev.csproj.Up2Date

@@ -1,0 +1,5 @@
+c:\repos\algorithms\leetcode\shift-right\csharp\src\bin\Debug\net11.0\ShiftRight.deps.json
+c:\repos\algorithms\leetcode\shift-right\csharp\src\obj\Debug\net11.0\ShiftRight.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\algorithms\leetcode\shift-right\csharp\src\obj\Debug\net11.0\ShiftRight.AssemblyInfoInputs.cache
+c:\repos\algorithms\leetcode\shift-right\csharp\src\obj\Debug\net11.0\ShiftRight.AssemblyInfo.cs
+c:\repos\algorithms\leetcode\shift-right\csharp\src\obj\Debug\net11.0\ShiftRight.csproj.Up2Date
