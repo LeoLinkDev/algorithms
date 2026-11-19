@@ -27,6 +27,10 @@
 		{
 			"name": "leetcode: Palindrome csharp",
 			"path": "leetcode/palindrome/csharp"
+		},
+		{
+			"name": "leetcode: longest substr",
+			"path": "leetcode/longest-substr/python"
 		}
 	],
 	"settings": {

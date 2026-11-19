@@ -5,12 +5,16 @@
             "extraPaths": ["fastprep/chebyshev/python/src"]
         },
         {
-            "root": "leetcode/min_shifts_right/python",
-            "extraPaths": ["leetcode/min_shifts_right/python/src"]
+            "root": "leetcode/shift-right/python",
+            "extraPaths": ["leetcode/shift-right/python/src"]
         },
         {
             "root": "leetcode/palindrome/python",
             "extraPaths": ["leetcode/palindrome/python/src"]
+        },
+        {
+            "root": "leetcode/longest-substr/python",
+            "extraPaths": ["leetcode/longest-substr/python/src"]
         }
     ]
 }

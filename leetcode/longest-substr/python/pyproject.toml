@@ -1,0 +1,37 @@
+# pyproject.toml to build setup to use hatchling and hatch_vcs
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "longest-substr"
+description = "Longest Substring Without Repeating Characters."
+version = "1.0.0"
+keywords = ["pyOpenSci", "python packaging"]
+authors = [
+    { name = "Leo Gurdian", email = "Leo.Gurdian@Connected7.com" }
+]
+classifiers = [
+    # Indicate who your project is intended for
+    "Development Status :: 4 - Beta",
+
+    # Indicate who your project is intended for
+    "Programming Language :: Python :: 3"
+]
+[dependency-groups]
+test = [
+    "pytest",
+    "pytest-cov",
+    "pytest-timeout"
+]
+lint = [
+    "pylint"
+]
+dev = [
+    {include-group = "test"},
+    {include-group = "lint"}
+]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+timeout = 5 # seconds timeout terminates tests

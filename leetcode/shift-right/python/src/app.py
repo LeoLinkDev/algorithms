@@ -25,13 +25,13 @@ class ShiftRight:
     def minimumRightShifts(self, nums: List[int]) -> int:
         n = len(nums)
         drop_idx = -1
-        
+
+        '''
+        Rotation Pivot Detection (or Inflection Point Finding): 
+        Finding the exact index where a rotated sorted array wraps around—specifically 
+        where the monotonic property breaks (nums[i] < nums[i - 1]).
+        '''
         for i in range(1, n):
-            '''
-            Rotation Pivot Detection (or Inflection Point Finding): 
-            Finding the exact index where a rotated sorted array wraps around—specifically 
-            where the monotonic property breaks (nums[i] < nums[i - 1]).
-            '''
             if nums[i] < nums[i - 1]:
                 # If we find more than one drop, it cannot be sorted by shifting
                 if drop_idx != -1:
